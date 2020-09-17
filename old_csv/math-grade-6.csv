@@ -1,0 +1,393 @@
+grade,category,skill,question
+Sixth grade,Whole numbers,Place values in whole numbers,
+Sixth grade,Whole numbers,Writing numbers in words: convert words to digits,
+Sixth grade,Whole numbers,Writing numbers in words: convert digits to words,
+Sixth grade,Whole numbers,Spell word names for numbers up to one million,How do you write this number using words?204
+Sixth grade,Whole numbers,Roman numerals,What number does this Roman numeral represent?XI
+Sixth grade,Whole numbers,Add and subtract whole numbers,Add.1 5 7+ 5 4 1
+Sixth grade,Whole numbers,Add and subtract whole numbers: word problems,"Recently, the value of Rhianna's college savings fund decreased by $35. If her fund was worth $881 before, how much is it worth now?$"
+Sixth grade,Multiplication,Multiply whole numbers,Multiply.442×5=
+Sixth grade,Multiplication,Multiply whole numbers: word problems,Darrell's town has 7 schools. Each school has 672 students. How many students are there in Darrell's town?students
+Sixth grade,Multiplication,Multiply whole numbers with four or more digits,"Multiply:3,652×  1,810"
+Sixth grade,Multiplication,Multiply numbers ending in zeroes,"Multiply:7,000 × 42 ="
+Sixth grade,Multiplication,Multiply numbers ending in zeroes: word problems,"A picnic supply company puts 2,000 plastic cups in each shipment. How many plastic cups are needed for 2 shipments?plastic cups"
+Sixth grade,Multiplication,Multiply three or more numbers,Multiply:4 × 9 × 7 =
+Sixth grade,Multiplication,Multiply three or more numbers: word problems,"Students from 7 schools wrote letters to the local newspaper. Each school had 9 students participate. If every student wrote 2 letters, how many letters did they write in all?letters"
+Sixth grade,Multiplication,Estimate products,"Estimate the product. Round each factor to the nearest ten, then multiply.82 × 78The product is approximately ."
+Sixth grade,Division,Divisibility rules,
+Sixth grade,Division,Division patterns with zeroes,"Complete the pattern:5 ÷ 5 =50 ÷ 5 =500 ÷ 5 =5,000 ÷ 5 ="
+Sixth grade,Division,Divide numbers ending in zeroes: word problems,"Harrison County has $25,000 to buy new street signs. If each sign costs $5, how many new street signs will the county be able to buy?street signs"
+Sixth grade,Division,Estimate quotients,
+Sixth grade,Division,Divide whole numbers - 2-digit divisors,"Divide:348,058"
+Sixth grade,Division,Divide whole numbers - 3-digit divisors,"Divide:305358,375"
+Sixth grade,Exponents,Write multiplication expressions using exponents,Write the expression using an exponent.22
+Sixth grade,Exponents,Evaluate exponents,Evaluate.42 =
+Sixth grade,Exponents,Write powers of ten with exponents,"Find the missing exponent.10=100,000"
+Sixth grade,Exponents,Find the missing exponent or base,"Find the missing exponent.10=1,000"
+Sixth grade,Exponents,Exponents with decimal bases,Evaluate.(0.2)2 =
+Sixth grade,Exponents,Exponents with fractional bases,Evaluate. Write your answer as a fraction or whole number.140   = 
+Sixth grade,Number theory,Convert between standard and scientific notation,
+Sixth grade,Number theory,Compare numbers written in scientific notation,
+Sixth grade,Number theory,Prime or composite,
+Sixth grade,Number theory,Identify factors,Which numbers are factors of 10? Select all that apply.8642
+Sixth grade,Number theory,Find all the factor pairs of a number,Find all the factor pairs for 30 and complete the equations.30= 130=1530= 330= 5
+Sixth grade,Number theory,Prime factorization,
+Sixth grade,Number theory,Prime factorization with exponents,"Write the prime factorization of 4. Use exponents when appropriate and order the factors from least to greatest (for example, 2235).⋅"
+Sixth grade,Number theory,Greatest common factor,What is the greatest common factor of 10 and 8?
+Sixth grade,Number theory,Greatest common factor of three or four numbers,"What is the greatest common factor of 12, 18, and 15?"
+Sixth grade,Number theory,Least common multiple,What is the least common multiple of 5 and 3?
+Sixth grade,Number theory,Least common multiple of three or four numbers,"What is the least common multiple of 12, 6, and 8?"
+Sixth grade,Number theory,GCF and LCM: word problems,"Layla and Tammy are studying a set of new words for Spanish class. Layla decides to break the set into lists of 10 words. Meanwhile, Tammy creates lists of 5 words. What is the smallest number of words there could be?words"
+Sixth grade,Number theory,Sort factors of numerical expressions,Sort the expressions.1211Factors of 118Factors of 512
+Sixth grade,Number theory,Classify numbers,
+Sixth grade,Decimals,What decimal number is illustrated?,What decimal number is illustrated?
+Sixth grade,Decimals,Decimal place values,
+Sixth grade,Decimals,Word names for decimal numbers,
+Sixth grade,Decimals,Put decimal numbers in order,Put these numbers in order from greatest to least.7.77 77.7 77.77
+Sixth grade,Decimals,Inequalities with decimals,
+Sixth grade,Decimals,Round decimals,What is 5.3 rounded to the nearest whole number?
+Sixth grade,Decimals,Round whole numbers and decimals: find the missing digit,"Type a digit that makes this statement true.When 65,338 is rounded to the nearest hundred thousand, the result is 600,000."
+Sixth grade,Decimals,Decimal number lines,Find the value of t. Write your answer as a decimal number.0t1t =
+Sixth grade,Decimals,Repeating decimals,
+Sixth grade,Add and subtract decimals,Add and subtract decimal numbers,
+Sixth grade,Add and subtract decimals,Add and subtract decimals: word problems,Aiden and his classmates placed colored blocks on a scale during a science lab. The green block weighed 0.8 pounds and the orange block weighed 0.6 pounds. How much more did the green block weigh than the orange block?pounds
+Sixth grade,Add and subtract decimals,Estimate sums and differences of decimals,Estimate the difference by rounding each number to the nearest whole number and then subtracting.5.8 − 3.7The difference is approximately .
+Sixth grade,Add and subtract decimals,Maps with decimal distances,"Using the paths shown, how long is the shortest route from Rockport to Greenville?12.5 mi6.7 mi7.4 mi11.1 mi12.9 miRockportLakesideOakdaleLakewoodGreenvillemi"
+Sixth grade,Multiply and divide decimals,Estimate products of decimal numbers,"Estimate the product. Round each factor to the nearest whole number, and then multiply.2.57 × 3.65The product is approximately ."
+Sixth grade,Multiply and divide decimals,Multiply decimals,Multiply:2.3×  8.5
+Sixth grade,Multiply and divide decimals,Inequalities with decimal multiplication,
+Sixth grade,Multiply and divide decimals,Divide decimals by whole numbers,"Divide. Give the exact answer, written as a decimal.396.6"
+Sixth grade,Multiply and divide decimals,Divide decimals by whole numbers: word problems,Deb drove 95.72 miles. Deb's car used 2 gallons of gas. How many miles per gallon did Deb's car get?miles per gallon
+Sixth grade,Multiply and divide decimals,Multiply and divide decimals by powers of ten,Multiply:10×  1.7
+Sixth grade,Multiply and divide decimals,Division with decimal quotients,"Divide. Give the exact answer, written as a decimal.489 ÷ 0.8 ="
+Sixth grade,Multiply and divide decimals,Inequalities with decimal division,
+Sixth grade,Multiply and divide decimals,Multiply and divide decimals: word problems,"Robert is a dairy farmer. His favorite cow, Annabelle, produces 7 gallons of milk per day. One gallon of milk weighs 8.6 pounds. How many pounds of milk does Annabelle produce each day?pounds"
+Sixth grade,Fractions and mixed numbers,Fractions on number lines,Graph13on the number line.01
+Sixth grade,Fractions and mixed numbers,Understanding fractions: word problems,There is a beautiful painting on the wall in the natural history museum of Frontier Town. The painting is made up of 3 equal panels. Each panel shows a different native plant or animal. The painting shows animals on 1 panel.What fraction of the painting shows animals?
+Sixth grade,Fractions and mixed numbers,Equivalent fractions review,Type the missing number that makes these fractions equal:810=5
+Sixth grade,Fractions and mixed numbers,Write fractions in lowest terms,Write46in lowest terms:
+Sixth grade,Fractions and mixed numbers,Least common denominator,Whatistheleastcommondenominatorof512and34?
+Sixth grade,Fractions and mixed numbers,Compare fractions with like and unlike denominators,
+Sixth grade,Fractions and mixed numbers,Compare fractions: word problems,
+Sixth grade,Fractions and mixed numbers,Convert between improper fractions and mixed numbers,Write 537 as a mixed number.
+Sixth grade,Fractions and mixed numbers,Convert fractions to decimals,Write 310 as a decimal number.
+Sixth grade,Fractions and mixed numbers,Convert decimals to fractions,Write 0.97 as a fraction.
+Sixth grade,Fractions and mixed numbers,Convert between decimals and fractions,Write 33100 as a decimal number.
+Sixth grade,Fractions and mixed numbers,Convert between decimals and mixed numbers,Write 9 310 as a decimal number.
+Sixth grade,Fractions and mixed numbers,Put a mix of decimals and fractions in order,Put these numbers in order from least to greatest.350.8 0.2
+Sixth grade,Fractions and mixed numbers,"Put a mix of decimals, fractions, and mixed numbers in order",Put these numbers in order from least to greatest.9459349.2
+Sixth grade,Fractions and mixed numbers,Understand fractions as division: word problems,"Cole baked 3 apple pies for Thanksgiving dinner. There were 16 people over at the house, including Cole. Each person ate the same amount of apple pie, and all of the pie was eaten.How much pie did each person eat?Write your answer as a proper fraction or mixed number.of a pie"
+Sixth grade,Add and subtract fractions,Add and subtract fractions with like denominators,Add.711  +  211  =  
+Sixth grade,Add and subtract fractions,Add and subtract fractions with like denominators: word problems,Alana kept track of the trick-or-treaters who came to her door and found that 1/4 were dressed as ghosts and 1/4 were dressed as witches. What fraction of the trick-or-treaters were dressed as either ghosts or witches?Write your answer as a fraction or as a whole or mixed number. of the trick-or-treaters
+Sixth grade,Add and subtract fractions,Add and subtract fractions with unlike denominators,Add.12+212=Use the model to help you.12+112112
+Sixth grade,Add and subtract fractions,Add and subtract fractions with unlike denominators: word problems,Sally ran 3/8 of a mile on Saturday and 1/4 of a mile on Sunday. How many miles did Sally run in all?Write your answer as a fraction or as a whole or mixed number. miles
+Sixth grade,Add and subtract fractions,Inequalities with addition and subtraction of like and unlike fractions,
+Sixth grade,Add and subtract fractions,Add and subtract mixed numbers,Add. Write your answer as a fraction or as a whole or mixed number.8 111 + 4 611 = 
+Sixth grade,Add and subtract fractions,Add and subtract mixed numbers: word problems,"Baldwin has a green extension cord that is 3 3/5 feet long and a red extension cord that is 10 4/5 feet long. If Baldwin plugs one extension cord into the other, how far will the cords reach?Write your answer as a fraction or as a whole or mixed number. feet"
+Sixth grade,Add and subtract fractions,Estimate sums and differences of mixed numbers,"Estimate the sum. Round each number to the nearest whole number, then add.3 18  +  6 14The sum is approximately ."
+Sixth grade,Add and subtract fractions,Maps with fractional distances,"From Greenville, how much farther is it to Ashland than to Greenwood?712 mi1012 mi512 miHillsboroAshlandGreenvilleGreenwoodWrite your answer as a fraction or as a whole or mixed number.mi"
+Sixth grade,Multiply fractions,Fractions of whole numbers I,Multiply. Write your answer as a fraction or as a whole or mixed number.45 ×  10  = 
+Sixth grade,Multiply fractions,Fractions of whole numbers II,Multiply. Write your answer as a fraction or as a whole or mixed number.35 ×  2  = 
+Sixth grade,Multiply fractions,Fractions of a number: word problems,
+Sixth grade,Multiply fractions,Estimate products of fractions and whole numbers,
+Sixth grade,Multiply fractions,Multiply two fractions using models,Use the model to find the product.1413=
+Sixth grade,Multiply fractions,Multiply two fractions,Multiply.19 × 13 = 
+Sixth grade,Multiply fractions,Multiply fractions: word problems,"At the Butler Aquarium, 4/5 of the animals are mammals. Of the mammals, 1/2 are dolphins. What fraction of the animals at the Butler Aquarium are dolphins?Write your answer as a fraction or as a whole or mixed number.of the animals"
+Sixth grade,Multiply fractions,Scaling whole numbers by fractions: justify your answer,"Look at the inequality.4<4⋅53Why is this inequality true? Drag and drop the tiles to complete the explanation.is less than 1is greater than 1smallerlargerSince 53 , multiplying by 53 makes the value ."
+Sixth grade,Multiply fractions,Scaling by fractions and mixed numbers,
+Sixth grade,Multiply fractions,Multiply three or more fractions and whole numbers,Multiply. Write your answer as a fraction or as a whole or mixed number.14 × 12 × 12 = 
+Sixth grade,Multiply fractions,Estimate products of mixed numbers,"Estimate the product. Round the first factor to the nearest whole number, round the second factor to the nearest hundred, and then multiply.8 16  ×  700 14The product is approximately ."
+Sixth grade,Multiply fractions,Multiply mixed numbers and whole numbers,Multiply. Write your answer as a fraction or as a whole or mixed number.5  × 3 12 = 
+Sixth grade,Multiply fractions,Multiply mixed numbers,Multiply. Write your answer as a fraction or as a whole or mixed number.1 25 × 5 12 = 
+Sixth grade,Multiply fractions,Multiply mixed numbers: word problems,"On Friday, Caleb sold 2 1/2 pitchers of lemonade from his lemonade stand. On Saturday, he sold 1/5 as much lemonade as on Friday. How many pitchers of lemonade did Caleb sell on Saturday?Write your answer as a fraction or as a whole or mixed number.pitchers"
+Sixth grade,Multiply fractions,"Multiply three or more mixed numbers, fractions, and/or whole numbers",Multiply. Write your answer as a fraction or as a whole or mixed number.12 × 2 12 ×  2  = 
+Sixth grade,Divide fractions,Divide whole numbers by unit fractions using models,Divide. Use the models to help you.115151515151 ÷ 15 = 
+Sixth grade,Divide fractions,Reciprocals,What is the reciprocal of 10?
+Sixth grade,Divide fractions,Divide whole numbers and unit fractions,Divide.18÷4=
+Sixth grade,Divide fractions,Divide fractions by whole numbers in recipes,What quantity of pineapple chunks would you need to make a third of the original recipe?Pineapple punchINGREDIENTS:212cups pineapple juice538cups pineapple soda14cup pineapple chunks214cups grapefruit juice234cups lemon-lime sodaWrite your answer as a fraction or as a whole or mixed number.cups
+Sixth grade,Divide fractions,Divide fractions,Divide.14÷23=
+Sixth grade,Divide fractions,Estimate quotients when dividing mixed numbers,"Estimate. Which sign makes the statement true?1,088 ÷ 878   215><"
+Sixth grade,Divide fractions,Divide fractions and mixed numbers,Divide.13 ÷ 1 13 = 
+Sixth grade,Divide fractions,Divide fractions and mixed numbers: word problems,Logan grew tomatoes this summer and used them to make 1/3 of a gallon of tomato sauce. He split it into 3 equal portions to freeze for using later. How many gallons was each portion?Write your answer as a fraction or as a whole or mixed number.gallons
+Sixth grade,Integers,Understanding integers,
+Sixth grade,Integers,Integers on number lines,Type the missing number.–2–10123
+Sixth grade,Integers,Graph integers on horizontal and vertical number lines,Graph 0 on the number line.4210–1–2–45–53–3
+Sixth grade,Integers,Understanding opposite integers,Graph -1 on the number line.–5–4–3–2–1012345What number is the opposite of -1?
+Sixth grade,Integers,Understanding absolute value,This number line shows a point at 7.012345678910What is its distance from 0?unitsWhat is the absolute value of 7?
+Sixth grade,Integers,Absolute value,What is the absolute value of –1?
+Sixth grade,Integers,Compare integers,
+Sixth grade,Integers,Put integers in order,"Put 0,–3, and 2 in order from least to greatest. You can use the number line to help.–10–8–6–4–202468100–3 2"
+Sixth grade,Integers,Integer inequalities with absolute values,
+Sixth grade,Integers,Absolute value and integers: word problems,
+Sixth grade,Operations with integers,Add integers using counters,
+Sixth grade,Operations with integers,Add integers using number lines,
+Sixth grade,Operations with integers,Add integers,Add:–2 + 4 =
+Sixth grade,Operations with integers,Subtract integers using counters,
+Sixth grade,Operations with integers,Subtract integers using number lines,
+Sixth grade,Operations with integers,Subtract integers,Subtract:–5 − 5 =
+Sixth grade,Operations with integers,Add and subtract integers: find the sign,
+Sixth grade,Operations with integers,Add and subtract integers: word problems,
+Sixth grade,Operations with integers,Add and subtract integers: input/output tables,
+Sixth grade,Operations with integers,Add three or more integers,Add:4 + –5 + –6 =
+Sixth grade,Operations with integers,Multiply integers: find the sign,
+Sixth grade,Operations with integers,Multiply integers,Multiply:–5 × 6 =
+Sixth grade,Operations with integers,Divide integers: find the sign,
+Sixth grade,Operations with integers,Divide integers,Divide:–13
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two whole numbers","Multiply.8 , 7 6 2 , 2 7 5× 6"
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two whole numbers: word problems","Greenville Hospital treated 7,867 patients last year who were children, out of a total of 9,071 patients. How many of the hospital's patients last year were adults?patients"
+Sixth grade,Mixed operations,Evaluate numerical expressions involving whole numbers,Evaluate the expression.5+4÷4
+Sixth grade,Mixed operations,Identify mistakes involving the order of operations,
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two decimals",Multiply:0.3× 9
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two decimals: word problems","Aisha wants to make a dog bed for her new puppy. She buys 2.5 yards of fabric. If the fabric costs $4.90 per yard, how much does Aisha pay?$"
+Sixth grade,Mixed operations,Evaluate numerical expressions involving decimals,Evaluate the expression.0.1×2+0.8Write your answer as an integer or a decimal. Do not round.
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two fractions",Multiply.110 × 110 = 
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two fractions: word problems",Jonathan's dog eats 7/10 of a can of food each day. Jonathan currently has 2 4/5 cans of dog food. How many days will the current supply of dog food last?Write your answer as a fraction or as a whole or mixed number.days
+Sixth grade,Mixed operations,Evaluate numerical expressions involving fractions,Evaluate the expression.45×34÷12Write your answer as a fraction or as a whole or mixed number.
+Sixth grade,Mixed operations,"Add, subtract, multiply, or divide two integers",Add:–8 + 2 =
+Sixth grade,Mixed operations,Evaluate numerical expressions involving integers,Evaluate the expression.3–4÷2
+Sixth grade,Rational numbers,Rational numbers on number lines,Graph–35on the number line.–101
+Sixth grade,Rational numbers,Rational numbers: equal or not equal,
+Sixth grade,Rational numbers,Compare and order rational numbers using number lines,
+Sixth grade,Rational numbers,Compare rational numbers,
+Sixth grade,Rational numbers,Put rational numbers in order,Put these numbers in order from greatest to least.–0.5 0.8–3110
+Sixth grade,Rational numbers,Compare and order rational numbers: word problems,
+Sixth grade,Rational numbers,Opposites of rational numbers,What is the opposite of 2.75? Write your answer as a decimal.
+Sixth grade,Rational numbers,Absolute value of rational numbers,
+Sixth grade,Rational numbers,Add and subtract rational numbers,Add.–2.1  + –6710 = 
+Sixth grade,Rational numbers,Multiply and divide rational numbers,Multiply.45 × –14 = 
+Sixth grade,Rational numbers,Rational numbers: find the sign,
+Sixth grade,Problem solving and estimation,Estimate to solve word problems,
+Sixth grade,Problem solving and estimation,Multi-step word problems,"Michelle walked 3 blocks from her house to the bus stop. She rode the bus 5 blocks to the library. Later, she came home the same way. How many blocks did Michelle travel in all?blocks"
+Sixth grade,Problem solving and estimation,Multi-step word problems: identify reasonable answers,
+Sixth grade,Problem solving and estimation,Word problems with extra or missing information,
+Sixth grade,Problem solving and estimation,Guess-and-check word problems,"A builder has some red and grey bricks. The red bricks weigh 10 kilograms each, and the grey bricks weigh 6 kilograms each. If the total weight of all 4 bricks is 32 kilograms, how many of each type of brick does Bernard have?red bricksgrey bricks"
+Sixth grade,Problem solving and estimation,Distance/direction to starting point,
+Sixth grade,Problem solving and estimation,Use logical reasoning to find the order,
+Sixth grade,Ratios and rates,Write a ratio,What is the ratio of stars to hexagons?8:
+Sixth grade,Ratios and rates,Write a ratio using a fraction,What is the ratio of squares to hexagons?3
+Sixth grade,Ratios and rates,Write a ratio: word problems,
+Sixth grade,Ratios and rates,Which model represents the ratio?,
+Sixth grade,Ratios and rates,Identify equivalent ratios,
+Sixth grade,Ratios and rates,Write an equivalent ratio,Find the number that makes the ratio equivalent to 1:2.4:
+Sixth grade,Ratios and rates,Ratio tables,Complete the ratio table.5 410 81520 1625 20
+Sixth grade,Ratios and rates,Equivalent ratios: word problems,
+Sixth grade,Ratios and rates,Unit rates,Find the unit rate.15 orders in 3 days = orders per day
+Sixth grade,Ratios and rates,Equivalent rates,Type the missing number to complete the proportion.8 orders in 1 day = 16 orders in days
+Sixth grade,Ratios and rates,Ratios and rates: complete a table and make a graph,
+Sixth grade,Ratios and rates,Use tape diagrams to solve ratio word problems,
+Sixth grade,Ratios and rates,Compare ratios: word problems,
+Sixth grade,Ratios and rates,Compare rates: word problems,
+Sixth grade,Ratios and rates,Ratios and rates: word problems,"Britney just got a new video game for her birthday. Yesterday, she played for 27 minutes and beat 3 levels. Today, her parents said she can play for 45 minutes.If she beats levels at the same rate, how many levels should Britney beat today?levels"
+Sixth grade,Ratios and rates,Do the ratios form a proportion?,
+Sixth grade,Ratios and rates,Solve the proportion,Solve the proportion.c8=71c=
+Sixth grade,Ratios and rates,Identify proportional relationships from graphs,
+Sixth grade,Ratios and rates,Identify proportional relationships from tables,
+Sixth grade,Ratios and rates,Identify proportional relationships by graphing,"Molly's favorite book is about Johnny Appleseed, the American pioneer who planted apple trees all across the country. Inspired by the story, Molly plants an apple seed in her backyard and tends the seed as it slowly grows into a tree. When Molly's apple tree is 7 years old, it is 7 feet tall. When her tree is 9 years old, it is 9 feet tall.In this relationship, x represents the age of Molly's apple tree (in years), and y represents the height of the tree (in feet).Graph two points for this relationship and the line passing through them.12345678910123456789100xyYearsFeetAccording to the graph, do x and y have a proportional relationship?yesno"
+Sixth grade,Ratios and rates,Interpret graphs of proportional relationships,
+Sixth grade,Ratios and rates,Scale drawings: word problems,"Nolan drew a scale drawing of an apartment. The scale of the drawing was 1 inch : 4 feet. If a rug by the door is 2 inches in the drawing, how long is the actual rug?feet"
+Sixth grade,Percents,What percentage is illustrated?,What percentage of the shape is orange?Write your answer using a percent sign (%).
+Sixth grade,Percents,Understanding percents: strip models,
+Sixth grade,Percents,Convert fractions to percents using grid models,Shade510of the grid.Click and drag to shade.What percent is equivalent to510?%
+Sixth grade,Percents,"Convert between percents, fractions, and decimals",How do you write 90% as a decimal?
+Sixth grade,Percents,"Convert between percents, fractions, and decimals: word problems",Wendy bought a watermelon that weighed 0.95 kilograms.Write 0.95 kilograms as a fraction in simplest form.of a kilogramWrite 0.95 kilograms as a percent.% of a kilogram
+Sixth grade,Percents,Compare percents to each other and to fractions,
+Sixth grade,Percents,Compare percents and fractions: word problems,
+Sixth grade,Percents,Solve percent problems using grid models,Read the problem.20% of the 120 cars at the Crazy Carz dealership are red.Shade the grid to show the percent of cars at the dealership that are red.How many red cars are at the dealership? You can use your model to help.cars
+Sixth grade,Percents,Solve percent problems using strip models,
+Sixth grade,Percents,Percents of numbers and money amounts,Complete the following statement.80%  of $10 = $
+Sixth grade,Percents,Percents of numbers: word problems,"During second period, Celine completed a grammar worksheet. Of the 10 questions, Celine got 60% right. How many questions did Celine get right?questions"
+Sixth grade,Percents,Percents of numbers - with fractional and decimal percents,What is 6834% of 48?
+Sixth grade,Percents,Find what percent one number is of another,% of 12 = 9
+Sixth grade,Percents,Find what percent one number is of another: word problems,"This morning, Ernesto took a history test. He got 12 out of 16 problems right. What percentage did Ernesto get right?Write your answer using a percent sign (%)."
+Sixth grade,Percents,Find the total given a part and a percent,100% of = 65
+Sixth grade,Percents,Solve percent problems,What is 20% of 100?
+Sixth grade,Percents,Solve percent word problems,"To celebrate the first day of school, Sasha brought in a tray of caramel brownies and walnut brownies. The tray had a total of 85 brownies, of which 80% were caramel. How many caramel brownies did Sasha bring?caramel brownies"
+Sixth grade,Units of measurement,Estimate customary measurements,
+Sixth grade,Units of measurement,Estimate metric measurements,
+Sixth grade,Units of measurement,Convert and compare customary units,
+Sixth grade,Units of measurement,"Convert, compare, add, and subtract mixed customary units",Convert:5 pt 1 c = c
+Sixth grade,Units of measurement,Multiply and divide mixed customary units,Multiply:19 yards 1 foot times 2= yards feet
+Sixth grade,Units of measurement,Customary unit conversions involving fractions and mixed numbers,Convert. Simplify your answer and write it as a proper fraction or as a whole or mixed number.inches  = 12 of a foot
+Sixth grade,Units of measurement,Convert and compare metric units,
+Sixth grade,Units of measurement,Convert between customary and metric systems,8 kilometers is the same as how many miles?Hint: 1 km ≈ 0.6 miRound your answer to the nearest tenth.
+Sixth grade,Units of measurement,Compare temperatures above and below zero,
+Sixth grade,Units of measurement,Convert between Celsius and Fahrenheit,"Convert the temperature from degrees Fahrenheit to degrees Celsius, using the formula below.C = 59 × (F – 32)212°F = °C"
+Sixth grade,Money,Find the number of each type of coin,
+Sixth grade,Money,Add and subtract money amounts,Add.$ 3 5 0+ $ 1 5 4$
+Sixth grade,Money,Add and subtract money amounts: word problems,"Mrs. Cunningham decided to buy dress shirts for her two sons. She bought her older son a blue shirt for $9.17, and she bought her younger son a white shirt for $9.27. How much did she spend in all?$"
+Sixth grade,Money,Multiply money by whole numbers and decimals,"Multiply. If necessary, round your answer to the nearest cent.$0.73×  0.2$"
+Sixth grade,Money,Multiply money: word problems,How much does it cost to buy 9 cookie sheets that cost $1.82 apiece?$
+Sixth grade,Money,Divide money amounts,Divide.$390.2 =  $
+Sixth grade,Money,Divide money amounts: word problems,"Marcy works as a janitor. If Marcy worked for 10 hours and earned $100, how much did she earn per hour?$"
+Sixth grade,Consumer math,Which is the better coupon?,Rhianna would like to buy a coffee table with an original price of $82. Which coupon should she use?50%OFF$40OFFone purchase of $75 or more
+Sixth grade,Consumer math,Unit prices,A 4-pound bag of cat food costs $9.36. What is the unit price?$ per pound
+Sixth grade,Consumer math,Unit prices with fractions and decimals,"IfVickybuys3.1kilogramsof44-mmwashers,howmuchwillshespend?44-mm washers        $3/kilogram50-mm washers        $4/kilogram24-mm washers        $4/kilogram66-mm washers        $4/kilogram$"
+Sixth grade,Consumer math,Unit prices with customary unit conversions,A 3-gallon bottle of bleach costs $16.44. What is the price per quart?$
+Sixth grade,Consumer math,Sale prices,75% OFF!Samir wants to buy a history book. The original price is $8. How much will Samir pay if he buys it during the sale?$
+Sixth grade,Consumer math,Sale prices: find the original price,"75% OFF!Shane buys a leaf blower during the sale. If Shane pays $18, what was the original price?$"
+Sixth grade,Consumer math,"Percents - calculate tax, tip, mark-up, and more","Kiarabuysahammockonlinefor$79.Ifshippingandhandlingareanadditional20%oftheprice,howmuchshippingandhandlingwillKiarapay?$"
+Sixth grade,Consumer math,Simple interest,"Devinhas$20inasavingsaccountthatearns5 %annually.Theinterestisnotcompounded.Howmuchinterestwillheearnin1year?Use the formula i = prt, where i is the interest earned, p is the principal (starting amount), r is the interest rate expressed as a decimal, and t is the time in years.$"
+Sixth grade,Time,Elapsed time,Find the elapsed time.Start: 11:45 A.M.End: 12:00 P.M.minutes
+Sixth grade,Time,Time units,How many days are in a leap year?days
+Sixth grade,Time,Find start and end times,"Joseph played a video game with three levels. It took him 1 hour and 30 minutes to beat the first level and 1 hour to beat the second level. Joseph played the final level for 1 hour and 30 minutes to finish the game. He beat the final level and stopped playing at 6:30 P.M. What time did Joseph start playing the game?Include A.M. or P.M. in your answer (for example, 11:58 A.M.)."
+Sixth grade,Coordinate plane,Objects on a coordinate plane,
+Sixth grade,Coordinate plane,Graph points on a coordinate plane,
+Sixth grade,Coordinate plane,Quadrants,
+Sixth grade,Coordinate plane,Coordinate planes as maps,"Where is the art supply store?12345678123456780 art gallery art supply store hardware store office supply store restaurant dry cleaners party supply store(, )"
+Sixth grade,Coordinate plane,Distance between two points,"Find the distance between the points (3,7) and (9,7).2468102468100xy(3,7)(9,7)units"
+Sixth grade,Coordinate plane,Follow directions on a coordinate plane,"You start at (10, 10). You move left 4 units. Where do you end?yx12345678910123456789100(, )"
+Sixth grade,Coordinate plane,Area and perimeter of squares and rectangles on the coordinate plane,
+Sixth grade,Expressions and properties,Write variable expressions: one operation,Write an expression for the operation described below.a minus 9⋅
+Sixth grade,Expressions and properties,Write variable expressions: two operations,"Write an expression for the sequence of operations described below.subtract f from g, then add 3 to the resultDo not simplify any part of the expression.⋅( )"
+Sixth grade,Expressions and properties,Write variable expressions: word problems,
+Sixth grade,Expressions and properties,Evaluate variable expressions with whole numbers,Find the value of the expressionn ÷ 10for n = 20.
+Sixth grade,Expressions and properties,Evaluate multi-variable expressions,Find the value of the expression16 ÷ m ÷ kfor k = 2 and m = 2.
+Sixth grade,Expressions and properties,"Evaluate variable expressions with decimals, fractions, and mixed numbers",Find the value of the expressiond + 2.5for d = 6.4.
+Sixth grade,Expressions and properties,Evaluate variable expressions: word problems,The cost of c cupcakes at Billie's Bakery is 2c dollars. Elijah bought 18 cupcakes for his birthday party.How much did Elijah pay for the cupcakes?$
+Sixth grade,Expressions and properties,Identify terms and coefficients,How many terms are in this expression?10u+v
+Sixth grade,Expressions and properties,Sort factors of variable expressions,Sort the expressions.710(v+1)v+13Factors of 10(v+1)Factors of 7(v+13)
+Sixth grade,Expressions and properties,Identify equivalent expressions using strip models,
+Sixth grade,Expressions and properties,Properties of addition,
+Sixth grade,Expressions and properties,Properties of multiplication,
+Sixth grade,Expressions and properties,Multiply using the distributive property,Simplify the expression:(4j + 3)(2) =
+Sixth grade,Expressions and properties,Factor using the distributive property,Factor 45a+27.Write your answer as a product with a whole number greater than 1.( )
+Sixth grade,Expressions and properties,Solve for a variable using properties of multiplication,Type the missing number.Hint: Use properties of multiplication.80 · 35 = 35 ·
+Sixth grade,Expressions and properties,Write equivalent expressions using properties,"Complete the expressions.Write each answer as a number, a variable, or the product of a number and a variable.9+2d+6=2d++6Commutative property of addition=2d+Add"
+Sixth grade,Expressions and properties,Add and subtract like terms,"Combine any like terms in the expression. If there are no like terms, rewrite the expression.4x+x–x"
+Sixth grade,Expressions and properties,Identify equivalent expressions I,
+Sixth grade,Expressions and properties,Identify equivalent expressions II,
+Sixth grade,One-variable equations,Does x satisfy an equation?,
+Sixth grade,One-variable equations,Which x satisfies an equation?,
+Sixth grade,One-variable equations,Write an equation from words,Write the sentence as an equation.197 fewer than n is 58
+Sixth grade,One-variable equations,Identify expressions and equations,
+Sixth grade,One-variable equations,Model and solve equations using algebra tiles,
+Sixth grade,One-variable equations,Write and solve equations that represent diagrams,Write an equation that says that the length of the green line is equal to the length of the black line.23u13Equation:
+Sixth grade,One-variable equations,Solve one-step addition and subtraction equations with whole numbers,Solve for g.g + 7 = 13g =
+Sixth grade,One-variable equations,Solve one-step multiplication and division equations with whole numbers,Solve for h.h3 =  4h =
+Sixth grade,One-variable equations,Solve one-step equations with whole numbers,Solve for f.f + 7 = 47f =
+Sixth grade,One-variable equations,"Solve one-step addition and subtraction equations with decimals, fractions, and mixed numbers",Solve for t.t –  6  = 58Write your answer as a fraction or as a whole or mixed number.t =
+Sixth grade,One-variable equations,"Solve one-step multiplication and division equations with decimals, fractions, and whole numbers",Solve for n.n · 4.8 = 9.6n =
+Sixth grade,One-variable equations,Solve one-step addition and subtraction equations: word problems,
+Sixth grade,One-variable equations,Solve one-step multiplication and division equations: word problems,
+Sixth grade,One-variable equations,Write a one-step equation: word problems,
+Sixth grade,One-variable equations,Solve one-step equations: word problems,
+Sixth grade,One-variable equations,Which word problem matches the one-step equation?,
+Sixth grade,One-variable equations,Solve one-step equations involving integers,Solve for b.–2 + 2 = bb =
+Sixth grade,One-variable equations,Solve equations involving like terms,
+Sixth grade,One-variable equations,Solve two-step equations,Solve for p.30p =  5p =
+Sixth grade,One-variable inequalities,Solutions to inequalities,
+Sixth grade,One-variable inequalities,Graph inequalities on number lines,"Graph.x<0To draw a ray, plot an endpoint and select an arrow. Select an endpoint to change it from closed to open. Select the middle of the ray to delete it.0246810"
+Sixth grade,One-variable inequalities,Write inequalities from number lines,"What inequality does this number line show?234567Write your answer starting with x (for example, x<3).><≥≤="
+Sixth grade,One-variable inequalities,Solve one-step inequalities,Solve for k.k≥1+1><≥≤=
+Sixth grade,One-variable inequalities,Graph solutions to one-step inequalities,"Solve the inequality and graph the solution.y≤10–6To draw a ray, plot an endpoint and select an arrow. Select an endpoint to change it from closed to open. Select the middle of the ray to delete it.012345678910"
+Sixth grade,One-variable inequalities,One-step inequalities: word problems,
+Sixth grade,Two-variable equations,"Does (x, y) satisfy an equation?",
+Sixth grade,Two-variable equations,Identify independent and dependent variables in tables and graphs,
+Sixth grade,Two-variable equations,Write an equation from a graph using a table,Complete the table and write the equation for the relationship shown in the graph.123456789101112131415161718192012345678910111213141516171819200xyx y6 1110 1511 1615y=
+Sixth grade,Two-variable equations,Identify independent and dependent variables: word problems,
+Sixth grade,Two-variable equations,Find a value using two-variable equations,Use the equation t=f+7 to find the value of t when f=1.t=
+Sixth grade,Two-variable equations,Find a value using two-variable equations: word problems,"This equation shows how the distance Kiera runs depends on the number of track practices she attends.d = p + 14The variable p represents the number of track team practices she attends, and the variable d represents the distance run in miles. How many miles would Kiera have run after 3 track practices?miles"
+Sixth grade,Two-variable equations,Solve word problems by finding two-variable equations,"Read the following description of a relationship:Every day, an automobile factory assembles 17 more cars than trucks.Let t represent the number of trucks assembled and c represent the number of cars assembled.Find the value of c when t=6.c="
+Sixth grade,Two-variable equations,Complete a table for a two-variable relationship,"Read the following description of a relationship:Joy has a superhero lunch box collection with 10 lunch boxes in it. From now on, she decides to buy one new lunch box every year for her birthday.Let y represent the number of years from now and b represent the total number of lunch boxes in her collection.Complete the table using the equation b=y+10.y b1 1123 134"
+Sixth grade,Two-variable equations,Write a two-variable equation from a table,Complete the equation that represents the relationship between z and b.z b2 13 24 35 4b=z–
+Sixth grade,Two-variable equations,Write a two-variable equation,Read the following description of a relationship:The maple tree in Sally's backyard is 5 years younger than the willow tree.Let w represent the willow tree's age and m represent the maple tree's age.Complete the equation that represents the relationship between w and m.w m7 28 39 410 5m=w–
+Sixth grade,Two-variable equations,Identify the graph of an equation,
+Sixth grade,Two-variable equations,Complete a table and graph a two-variable equation,"Use the equation to complete the table.y=xx y46810Now, graph the equation.1234567891012345678910xy"
+Sixth grade,Two-variable equations,Graph a two-variable equation,"Brennan is taking guitar lessons. Before he began the lessons, he knew how to play 2 songs on his guitar. Let s be the number of songs he learns at his lessons, and let t be the total number of songs he can play.The equation t=s+2 represents this situation. Graph the equation.1234567891012345678910stSongs learned in lessonsTotal songs known"
+Sixth grade,Two-variable equations,Interpret a graph: word problems,
+Sixth grade,Two-dimensional figures,Identify and classify polygons,Is this a polygon?yesno
+Sixth grade,Two-dimensional figures,Measure and classify angles,What is the measurement of this angle?°
+Sixth grade,Two-dimensional figures,Estimate angle measurements,Estimate the measure of this angle within 15°.°
+Sixth grade,Two-dimensional figures,Classify triangles,
+Sixth grade,Two-dimensional figures,Triangle inequality,
+Sixth grade,Two-dimensional figures,Identify trapezoids,
+Sixth grade,Two-dimensional figures,Classify quadrilaterals,
+Sixth grade,Two-dimensional figures,Graph triangles and quadrilaterals,"Graph the triangle with vertices (2,6), (7,0), and (1,3).2468102468100xy"
+Sixth grade,Two-dimensional figures,Find missing angles in triangles,What is the measure of the missing angle?90°?53°°
+Sixth grade,Two-dimensional figures,Find missing angles in special triangles,A right triangle has one angle that measures 80°. What is the measure of the other acute angle?°
+Sixth grade,Two-dimensional figures,Find missing angles in quadrilaterals,What is the measure of the missing angle?42°109°143°?°
+Sixth grade,Two-dimensional figures,Sums of angles in polygons,What is v?125°v100°85°v = °
+Sixth grade,Two-dimensional figures,"Lines, line segments, and rays",What is the name of this figure?YZ
+Sixth grade,Two-dimensional figures,Name angles,
+Sixth grade,Two-dimensional figures,Complementary and supplementary angles,The measure of an angle is 59°. What is the measure of its complementary angle?°
+Sixth grade,Two-dimensional figures,"Identify complementary, supplementary, vertical, adjacent, and congruent angles",
+Sixth grade,Two-dimensional figures,"Find measures of complementary, supplementary, vertical, and adjacent angles",What is the value of f?f50°°
+Sixth grade,Symmetry and transformations,Line symmetry,Is the dotted line a line of symmetry?yesno
+Sixth grade,Symmetry and transformations,Rotational symmetry,
+Sixth grade,Symmetry and transformations,Rotational symmetry: amount of rotation,
+Sixth grade,Symmetry and transformations,"Reflection, rotation, and translation",
+Sixth grade,Symmetry and transformations,Similar and congruent figures,
+Sixth grade,Symmetry and transformations,Find side lengths of similar figures,"If these two shapes are similar, what is the measure of the missing length v?1 cm4 cm2 cmvv = centimeters"
+Sixth grade,Three-dimensional figures,Identify polyhedra,
+Sixth grade,Three-dimensional figures,Which figure is being described?,
+Sixth grade,Three-dimensional figures,Nets of three-dimensional figures,
+Sixth grade,Three-dimensional figures,"Front, side, and top view",
+Sixth grade,Geometric measurement,Perimeter,
+Sixth grade,Geometric measurement,Area of rectangles and squares,What is the area?9 km5 kmsquare kilometers
+Sixth grade,Geometric measurement,Understanding area of a parallelogram,
+Sixth grade,Geometric measurement,Area of parallelograms,What is the area of the parallelogram?square yards
+Sixth grade,Geometric measurement,Understanding area of a triangle,"You can find the area of this triangle by copying it and forming a rectangle.Which shows how to copy the triangle, cut the copy into pieces, and form a rectangle?"
+Sixth grade,Geometric measurement,Area of triangles,What is the area of the triangle?square miles
+Sixth grade,Geometric measurement,Understanding area of a trapezoid,You can find the area of this trapezoid by cutting it into two triangles.Which shows how to cut the trapezoid into two triangles?
+Sixth grade,Geometric measurement,Area of trapezoids,What is the area of the trapezoid?square miles
+Sixth grade,Geometric measurement,Area of rhombuses,
+Sixth grade,Geometric measurement,Area of quadrilaterals,
+Sixth grade,Geometric measurement,Area of compound figures,
+Sixth grade,Geometric measurement,Area of compound figures with triangles,What is the area of this figure?20 mi8 mi15 mi4 mi5 mi12 misquare miles
+Sixth grade,Geometric measurement,Area between two rectangles,
+Sixth grade,Geometric measurement,Area between two triangles,
+Sixth grade,Geometric measurement,Rectangles: relationship between perimeter and area,"The rectangles below have the same perimeter.8 m6 mIf the area of the gray rectangle is 24 square meters, what are its dimensions?meters by meters"
+Sixth grade,Geometric measurement,Compare area and perimeter of two figures,
+Sixth grade,Geometric measurement,Area of quadrilaterals and triangles: word problems,
+Sixth grade,Geometric measurement,Volume of cubes and rectangular prisms,What is the volume?4 ft4 ft4 ftcubic feet
+Sixth grade,Geometric measurement,Volume of cubes and rectangular prisms with fractional side lengths,"Find the volume of the rectangular prism.Write your answer as a whole number, a proper fraction, or a mixed number.cubic miles"
+Sixth grade,Geometric measurement,Volume of cubes and rectangular prisms: word problems,
+Sixth grade,Geometric measurement,Surface area of cubes and rectangular prisms,What is the surface area?5 cm4 cm5 cmsquare centimeters
+Sixth grade,Geometric measurement,Volume of triangular prisms,What is the volume?2 ft2 ft1 ftcubic feet
+Sixth grade,Geometric measurement,Surface area of triangular prisms,What is the surface area?10 ft12 ft10 ft10 ft8 ftsquare feet
+Sixth grade,Geometric measurement,Surface area of pyramids,What is the surface area of this rectangular pyramid?3 m3 m3 msquare meters
+Sixth grade,Geometric measurement,Relate volume and surface area,The volume of this cube is 64 cubic feet. What is the surface area of this cube?square feet
+Sixth grade,Data and graphs,Interpret pictographs,Look at this pictograph:Favorite Winter Olympics sportsSnowboardingLugeFigure skatingBobsleddingEach = 10 childrenHow many children chose luge as their favorite?children
+Sixth grade,Data and graphs,Create pictographs,Use the data in the table to complete the missing row in the pictograph below.Pizza slices soldRestaurant SlicesPizzas Only 200The Big Cheese 450Pizza Italia 850Click to select the pizza slices.Pizza slices soldPizzas OnlyThe Big CheesePizza Italia=100 slices=50 slices
+Sixth grade,Data and graphs,Interpret line plots,"To better understand library usage patterns, a librarian figured out how many books were checked out by some patrons last year.Checking out books from the library1234Books checked outHow many patrons checked out fewer than 3 books? patrons"
+Sixth grade,Data and graphs,Create line plots,"A theme park developer recorded the number of people who visited the local water park last summer.Use the data in the table to complete the line plot below.Going to the water park last summerNumber of trips Number of people1 72 23 84 15 5Click to select the X's. To clear a column, click on the number line below it.Going to the water park last summer12345Number of trips"
+Sixth grade,Data and graphs,Create and interpret line plots with fractions,"A peanut butter company spent a year researching the amount of peanut butter its customers use. The company sent customers peanut butter jars with measure marks. Over the year, the customers reported how many jars they used.Amount of peanut butter usedCustomer JarsRiley 134Naomi 134Quinn 134Vince 178Eduardo 158Sanjay 134Use the data in the table to complete the line plot below.Click to select the X's. To clear a column, click on the number line below it.Amount of peanut butter used1118114138112158134178Jars"
+Sixth grade,Data and graphs,Create frequency charts,Gordon counted the number of pairs of shoes for sale at each of the shoe stores in the mall.Use the data to complete the frequency chart below.Pairs of shoes per store27   29   33   34   35   38   40   50   56   61   63   66   70   76   84   88   88   96   99   101   102   107   111  Fill in the missing number.Pairs of shoes per storeNumber of pairs of shoes Number of stores20-39 640-59 360-7980-99 5100-119 4
+Sixth grade,Data and graphs,Interpret categorical data,
+Sixth grade,Data and graphs,Create relative frequency tables,Fred asked his friends how they get to school each day.Getting to schoolTransportation method Bus Walk Bike CarFrequency 10 3 2 5Complete the relative frequency table for the data.Getting to schoolTransportation method Bus Walk Bike CarRelative frequency % % % %
+Sixth grade,Data and graphs,Interpret bar graphs,
+Sixth grade,Data and graphs,Create bar graphs,"A delivery driver delivered 6 pizzas on Tuesday, 8 pizzas on Wednesday, and 7 pizzas on Thursday.Use this data to complete the bar graph below.Click to set the height of the missing bar.TuesdayWednesdayThursday05678910DayNumber of pizzasPizzas delivered"
+Sixth grade,Data and graphs,Create percent bar graphs,
+Sixth grade,Data and graphs,Interpret double bar graphs,
+Sixth grade,Data and graphs,Create double bar graphs,
+Sixth grade,Data and graphs,Interpret histograms,
+Sixth grade,Data and graphs,Create histograms,The staff of a game show tracked the performance of all the contestants during the past season.Use the data to complete the histogram below.Game show scores122268111214152222222323Click to set the height of the missing bar.0 - 45 - 910 - 1415 - 1920 - 24012345ScoreNumber of peopleGame show scores
+Sixth grade,Data and graphs,Interpret circle graphs,
+Sixth grade,Data and graphs,Interpret line graphs,
+Sixth grade,Data and graphs,Create line graphs,The manager of Lacey's Cafe counted cups of coffee sold each day to determine the right quantity of coffee beans to roast.Use the data in the table to complete the line graph below.Coffee salesDay Cups soldTuesday 10Wednesday 0Thursday 8Friday 4Saturday 4Click to select points on the graph.WednesdayThursdayFridaySaturday12345678910Tuesday0xyDayCups soldCoffee sales
+Sixth grade,Data and graphs,Interpret double line graphs,The sports teams at Lowell Middle School are raising money for new sports equipment.FebruaryMarchAprilMayJuneJulyAugust$0$10$20$30$40$50$60$70$80$90$100Amount raisedMonthSports equipment fundraising basketball team   baseball teamHow much money did the baseball team raise during April?$
+Sixth grade,Data and graphs,Create double line graphs,
+Sixth grade,Data and graphs,Interpret stem-and-leaf plots,The employee at the department store counted the number of ties on each tie rack.Ties per rack Stem   Leaf 2      23      14      3 45      0 66      2 37      8What is the largest number of ties?ties
+Sixth grade,Data and graphs,Create stem-and-leaf plots,A food magazine published a listing of local restaurant ratings.Restaurant ratings121515192122242828313334363637393941414446Use the data to complete the stem-and-leaf plot.Restaurant ratingsStem Leaf12 5 5 921 2 4 8 831 3 4 6 6 7 9 94
+Sixth grade,Data and graphs,Box plots,The principal of Oceanside Middle School recorded the number of students in each class.Class sizes at Oceanside Middle School202224262830What was the upper quartile of the class sizes?students
+Sixth grade,Statistics,Identify statistical questions,
+Sixth grade,Statistics,"Calculate mean, median, mode, and range",What is the range?
+Sixth grade,Statistics,"Interpret charts and graphs to find mean, median, mode, and range",A baseball player paid attention to how many baseballs he hit in practice each day.Baseballs hitDay Number of baseballsTuesday 4Wednesday 6Thursday 5Friday 5Saturday 3Sunday 5Monday 7What is the range of the numbers?
+Sixth grade,Statistics,"Mean, median, mode, and range: find the missing number",
+Sixth grade,Statistics,"Changes in mean, median, mode, and range",
+Sixth grade,Statistics,Calculate mean absolute deviation,"In the data set below, what is the mean absolute deviation?If the answer is a decimal, round it to the nearest tenth.mean absolute deviation (MAD):"
+Sixth grade,Statistics,Calculate quartiles and interquartile range,"In the data set below, what is the lower quartile?5567778"
+Sixth grade,Statistics,Identify an outlier,Select the outlier in the data set.76480828386919398
+Sixth grade,Statistics,Identify an outlier and describe the effect of removing it,
+Sixth grade,Statistics,Describe distributions in line plots,
+Sixth grade,Statistics,"Identify representative, random, and biased samples",
+Sixth grade,Probability,Counting principle,Sandra is customizing a new sailboat. There are 2 sizes of boats and 5 exterior colors to choose from. How many different sailboats can Sandra buy?sailboats
+Sixth grade,Probability,Probability of one event,
+Sixth grade,Probability,Make predictions,"You select a marble without looking and then put it back. If you do this 11 times, what is the best prediction possible for the number of times you will pick a purple or a blue marble?times"
+Sixth grade,Probability,Probability of simple events and opposite events,You roll a 6-sided die.What is P(less than 2)?Write your answer as a fraction or whole number.
+Sixth grade,Financial literacy,Compare checking accounts,
+Sixth grade,Financial literacy,Check registers,Calculate the missing balance in Carla's check register.Check # Date Transaction Deposit Withdrawal Balance8/1 graphing calculator $194 38 $106 15451 8/5 new backpack $41 95 $64 208/25 transfer from savings $75 00 $
+Sixth grade,Financial literacy,Debit cards and credit cards,
+Sixth grade,Financial literacy,Credit reports,
+Sixth grade,Financial literacy,Paying for college,Kiera is using multiple methods to pay for college. Match each method to its description.scholarshipwork-studysavingsDescriptionMethodMoney Kiera plans to earn at her job as a professor's research assistantMoney given to Kiera by her college because of her musical abilityMoney Kiera has been keeping in the bank for her tuition
+Sixth grade,Financial literacy,"Occupations, education, and income",
